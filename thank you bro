@@ -1,0 +1,8 @@
+facebook-https://www.facebook.com/profile.php?id=100022167707566
+subscribed by-jayesh
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"thank you bro"<<endl;
+return 0;
+}
